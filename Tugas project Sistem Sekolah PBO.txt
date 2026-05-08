@@ -1,6 +1,0 @@
-﻿Build started at 22.41...
-1>------ Build started: Project: Sistem Sekolah PBO, Configuration: Debug Any CPU ------
-1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
-1>  Sistem Sekolah PBO -> C:\Users\ASUS\source\repos\Sistem Sekolah PBO\Sistem Sekolah PBO\bin\Debug\net10.0\Sistem Sekolah PBO.dll
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-========== Build completed at 22.41 and took 00,794 seconds ==========
